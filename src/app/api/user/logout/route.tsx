@@ -1,4 +1,4 @@
-import { SendResponse } from "@/utils/response";
+import { SendResponse } from "@/utils/api/response";
 import { cookies } from "next/headers";
 import { NextRequest, NextResponse } from "next/server";
 
